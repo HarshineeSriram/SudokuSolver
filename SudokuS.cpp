@@ -1,12 +1,4 @@
 /* This program deals with the solving of a sudoku solver.
-
-                                              ---------------------
-                                             | HARSHINEE SRIRAM    |
-                                             | ROLL NUMBER 31      |
-                                             | XI A                |
-                                             | Delhi Public School |         |
-                                              ---------------------
-
 Steps involved are:
 
 1. Find a cell with least number of legal moves.
